@@ -1,0 +1,1 @@
+# djangorest-simple-token
